@@ -1,4 +1,4 @@
-# Homework 2 (712): redicting diagnoses of malignant mesotheliomas
+# Homework 2 (712): Predicting diagnoses of malignant mesotheliomas
 
 This homework is due Friday November 23, 2018 at 11:59 PM. 
 
